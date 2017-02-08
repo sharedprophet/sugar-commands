@@ -1,0 +1,17 @@
+{
+  "name": "sugar-commands",
+  "main": "./lib/sugar-commands",
+  "version": "0.1.0",
+  "description": "Sugar.js string commands for Atom",
+  "keywords": [],
+  "repository": "https://github.com/sharedprophet/sugar-commands",
+  "license": "Unlicense",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "sugar": "^2.0.4",
+    "sugar-inflections": "^2.0.4",
+    "sugar-language": "^2.0.4"
+  }
+}
