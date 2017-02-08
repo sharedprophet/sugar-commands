@@ -3,7 +3,14 @@
   "main": "./lib/sugar-commands",
   "version": "0.2.0",
   "description": "Sugar.js string commands for Atom",
-  "keywords": [],
+  "keywords": [
+		"sugar",
+		"sugar.js",
+		"sugarjs",
+		"string manipulation",
+		"strings",
+		"string"
+	],
   "repository": "https://github.com/sharedprophet/sugar-commands",
   "license": "Unlicense",
   "engines": {
